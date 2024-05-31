@@ -1,0 +1,7 @@
+C:\Users\User\Masaüstü\CodeSociete\ListGenericType\bin\Debug\ListGenericType.exe.config
+C:\Users\User\Masaüstü\CodeSociete\ListGenericType\bin\Debug\ListGenericType.exe
+C:\Users\User\Masaüstü\CodeSociete\ListGenericType\bin\Debug\ListGenericType.pdb
+C:\Users\User\Masaüstü\CodeSociete\ListGenericType\obj\Debug\ListGenericType.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\CodeSociete\ListGenericType\obj\Debug\ListGenericType.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\CodeSociete\ListGenericType\obj\Debug\ListGenericType.exe
+C:\Users\User\Masaüstü\CodeSociete\ListGenericType\obj\Debug\ListGenericType.pdb
